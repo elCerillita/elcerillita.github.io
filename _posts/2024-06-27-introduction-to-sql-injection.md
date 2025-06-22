@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser:
   teaser_home_page: false
-  icon:
+  icon: assets/images/burp-suite-icon.svg
 categories:
   - sqli
 tags:
