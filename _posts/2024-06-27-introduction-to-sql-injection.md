@@ -16,6 +16,7 @@ tags:
   - php
   - sql
   - sqli
+  - introduction
 ---
 ## What is SQL injection (SQLi)?
 
