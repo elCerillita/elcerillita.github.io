@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Pablo"
-  avatar           : "/assets/images/avatar.png"
+  avatar           : # "/assets/images/avatar.png"
   bio              : "IT<br>Cybersecutiy<br>Pentester"
   location         : "Spain / US "
   email            : "pabloherreran1@gmail.com"
