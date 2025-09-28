@@ -39,5 +39,10 @@ To insert an image:
 To insert a link to a text:
 [examole link](https://example.com)
 
+Headers from largest to smallest:
+# Header 1
+## Header 2
+### Header 3
+
 ```
     
