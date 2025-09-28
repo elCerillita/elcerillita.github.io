@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser:
   teaser_home_page: false
-  icon:
+  icon: /assets/images/google-icon.png
 categories:
   - google-it-support
 tags:
@@ -25,5 +25,6 @@ This program is rooted in the belief that a strong foundation in IT support can 
 - System administration
 - IT infrastructure services
 - IT security
+
 
 
