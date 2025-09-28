@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser:
   teaser_home_page: false
-  icon:
+  icon: /assets/images/comptia-icon.svg
 categories:
   - comptia-networkplus
   - study-notes
@@ -64,3 +64,4 @@ CompTIA Network+ is the premier certification for validating your knowledge of e
 - Network services issues: switching issues (STP, VLAN assignment, ACLs), routing issues (routing table and default routes), address pool exhaustion, and incorrect gateway/IP/subnet mask.
 - Performance issues: congestion, latency, packet loss, and wireless interference.
 - Tools and protocols: protocol analyzers, command line tools, cable testers, and Wi-Fi analyzers.
+
