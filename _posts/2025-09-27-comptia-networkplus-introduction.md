@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Title of post
+title: CompTIA Network+
 excerpt: "CompTIA Network+ is the premier certification for validating your knowledge of essential networking tools and concepts. You will be assessed on your abilities in network connectivity, documentation, service configuration, data centers, cloud, virtual networking, monitoring, troubleshooting, and security hardening. This certification prepares you for jobs in technical support, network operation, and system administration."
-date: 2024-06-27
+date: 2025-09-27
 classes: wide
 header:
   teaser:
