@@ -17,7 +17,6 @@ tags:
   - comptia
   - network
 ---
-# Network+
 CompTIA Network+ is the premier certification for validating your knowledge of essential networking tools and concepts. You will be assessed on your abilities in network connectivity, documentation, service configuration, data centers, cloud, virtual networking, monitoring, troubleshooting, and security hardening. This certification prepares you for jobs in technical support, network operation, and system administration.
 
 ## Network+ (V9) objectives summary
@@ -64,3 +63,4 @@ CompTIA Network+ is the premier certification for validating your knowledge of e
 - Network services issues: switching issues (STP, VLAN assignment, ACLs), routing issues (routing table and default routes), address pool exhaustion, and incorrect gateway/IP/subnet mask.
 - Performance issues: congestion, latency, packet loss, and wireless interference.
 - Tools and protocols: protocol analyzers, command line tools, cable testers, and Wi-Fi analyzers.
+
