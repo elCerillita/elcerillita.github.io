@@ -17,16 +17,16 @@ tags:
   - networking
 ---
 ## 1.1 – The OSI Model
-• What is the OSI model?
-  – Open Systems Interconnection Reference Model
-• It’s a guide (thus the term “model”)
-  – Don’t get wrapped up in the details
-• This is not the OSI protocol suite
-  – Most of the OSI protocols didn’t catch on
-• There are unique protocols at every layer
-• You’ll refer to this model for the rest of your career
-  – Often
-• OSI model mnemonic: All People Seem To Need Data Processing
+• What is the OSI model? <br>
+– Open Systems Interconnection Reference Model<br>
+• It’s a guide (thus the term “model”)<br>
+– Don’t get wrapped up in the details<br>
+• This is not the OSI protocol suite<br>
+– Most of the OSI protocols didn’t catch on<br>
+• There are unique protocols at every layer<br>
+• You’ll refer to this model for the rest of your career<br>
+– Often<br>
+• OSI model mnemonic: All People Seem To Need Data Processing<br>
 
 ### Layer 1 – Physical Layer
 • The physics of the network
