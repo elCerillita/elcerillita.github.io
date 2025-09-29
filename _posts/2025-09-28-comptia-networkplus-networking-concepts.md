@@ -1,6 +1,6 @@
 ---
 layout: single
-title: CompTIA Network+ | Networking concepts
+title: CompTIA Network+ Networking concepts
 excerpt: "CompTIA Network+ is the premier certification for validating your knowledge of essential networking tools and concepts. You will be assessed on your abilities in network connectivity, documentation, service configuration, data centers, cloud, virtual networking, monitoring, troubleshooting, and security hardening. This certification prepares you for jobs in technical support, network operation, and system administration."
 date: 2025-09-28
 classes: wide
@@ -18,14 +18,14 @@ tags:
 ---
 ## 1.1 – The OSI Model
 • What is the OSI model? <br>
-&#9;– Open Systems Interconnection Reference Model<br>
+&nbsp;– Open Systems Interconnection Reference Model<br>
 • It’s a guide (thus the term “model”)<br>
-&#9;– Don’t get wrapped up in the details<br>
+&ensp;– Don’t get wrapped up in the details<br>
 • This is not the OSI protocol suite<br>
-&#9;– Most of the OSI protocols didn’t catch on<br>
+&emsp;– Most of the OSI protocols didn’t catch on<br>
 • There are unique protocols at every layer<br>
 • You’ll refer to this model for the rest of your career<br>
-&#9;– Often<br>
+&nbsp;– Often<br>
 • OSI model mnemonic: All People Seem To Need Data Processing<br>
 
 ### Layer 1 – Physical Layer
@@ -74,3 +74,4 @@ tags:
 ## 1.6 – Network Topologies
 ## 1.7 – IPv4 Addressing
 ## 1.8 – Network Environments
+
