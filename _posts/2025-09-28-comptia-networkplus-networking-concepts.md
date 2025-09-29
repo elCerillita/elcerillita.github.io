@@ -16,7 +16,7 @@ tags:
   - network
   - networking
 ---
-## The OSI Model
+## 1.1 – The OSI Model
 • What is the OSI model?
 – Open Systems Interconnection Reference Model
 • It’s a guide (thus the term “model”)
@@ -28,7 +28,7 @@ tags:
 – Often
 • All People Seem To Need Data Processing
 
-## Layer 1 – Physical Layer
+### Layer 1 – Physical Layer
 • The physics of the network
 – Signaling, cabling, connectors
 – This layer isn’t about protocols
@@ -36,35 +36,43 @@ tags:
 – Fix your cabling, punch-downs, etc.
 – Run loopback tests, test/replace cables, swap adapter cards
 
-## Layer 2 – Data Link Layer
+### Layer 2 – Data Link Layer
 • The basic network “language”
 – The foundation of communication at the data link layer
 • Data Link Control (DLC) protocols
 – MAC (Media Access Control) address on Ethernet
 • The “switching” layer
 
-## Layer 3 – Network Layer
+### Layer 3 – Network Layer
 • The “routing” layer
 • Internet Protocol (IP)
 • Fragments frames to traverse different networks
 
-## Layer 4 – Transport Layer
+### Layer 4 – Transport Layer
 • The “post office” layer
 – Parcels and letters
 • TCP (Transmission Control Protocol) and UDP (User Datagram Protocol)
 
-## Layer 5 – Session Layer
+### Layer 5 – Session Layer
 • Communication management between devices
 – Start, stop, restart
 • Control protocols, tunneling protocols
 
-## Layer 6 – Presentation Layer
+### Layer 6 – Presentation Layer
 • Character encoding
 • Application encryption
 • Often combined with the Application Layer
 
-## Layer 7 – Application Layer
+### Layer 7 – Application Layer
 • The layer we see
 • HTTP, FTP, DNS, POP3
 
 • Follow the conversation
+
+## 1.2 – Network Appliances and Applications
+## 1.3 – The Cloud
+## 1.4 – Ports and Protocols
+## 1.5 – Transmission Media
+## 1.6 – Network Topologies
+## 1.7 – IPv4 Addressing
+## 1.8 – Network Environments
