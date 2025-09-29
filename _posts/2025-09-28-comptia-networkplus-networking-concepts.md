@@ -1,6 +1,6 @@
 ---
 layout: single
-title: CompTIA Network+ - Networking concepts
+title: CompTIA Network+ | Networking concepts
 excerpt: "CompTIA Network+ is the premier certification for validating your knowledge of essential networking tools and concepts. You will be assessed on your abilities in network connectivity, documentation, service configuration, data centers, cloud, virtual networking, monitoring, troubleshooting, and security hardening. This certification prepares you for jobs in technical support, network operation, and system administration."
 date: 2025-09-28
 classes: wide
@@ -66,4 +66,5 @@ tags:
 ## Layer 7 – Application Layer
 • The layer we see
 • HTTP, FTP, DNS, POP3
+
 • Follow the conversation
