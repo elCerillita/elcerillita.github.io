@@ -18,14 +18,14 @@ tags:
 ---
 ## 1.1 – The OSI Model
 • What is the OSI model? <br>
-– Open Systems Interconnection Reference Model<br>
+&#9;– Open Systems Interconnection Reference Model<br>
 • It’s a guide (thus the term “model”)<br>
-– Don’t get wrapped up in the details<br>
+&#9;– Don’t get wrapped up in the details<br>
 • This is not the OSI protocol suite<br>
-– Most of the OSI protocols didn’t catch on<br>
+&#9;– Most of the OSI protocols didn’t catch on<br>
 • There are unique protocols at every layer<br>
 • You’ll refer to this model for the rest of your career<br>
-– Often<br>
+&#9;– Often<br>
 • OSI model mnemonic: All People Seem To Need Data Processing<br>
 
 ### Layer 1 – Physical Layer
